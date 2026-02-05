@@ -1,5 +1,5 @@
 # Electric Hearts EQ Presets
-For [Pulsar 8200](https://pulsar.audio/eq-8200/)
+For [Pulsar 8200](https://pulsar.audio/eq-8200/) - compatible with Mac and Windows
 
 ## Download and installation instructions
 1. Download the latest version from the releases page and unzip it.
